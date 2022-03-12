@@ -1,0 +1,6 @@
+Build: {
+npx js2exe hello_world.js test.exe
+};
+Export: {
+test.exe
+};
