@@ -1,4 +1,5 @@
-ForgeBin - an automation tool for building and releasing projects.
+# ForgeBin
+An automation tool for building and releasing projects.
 # Progress
 Nearly finished, major fixing needed for exporting
 # Description
