@@ -1,7 +1,7 @@
 # ForgeBin
 An automation tool for building and releasing projects, written in JavaScript.
 # Progress
-Nearly finished, major fixing needed for exporting
+Nearly finished (not working), major fixing needed for exporting
 # Description
 ## ForgeBin
 A tool for releasing your app however and whenever you want, automatically.
